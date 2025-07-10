@@ -1,0 +1,343 @@
+{
+    "metadata": {
+        "tool_info": {
+            "name": "rust-analyzer",
+            "version": "0.3.2379-standalone (8365cf853e 2025-04-13)"
+        },
+        "project_root": "file:///home/lacra/git_repos/demo_deps/demo_app",
+        "text_document_encoding": 1
+    },
+    "documents": [
+        {
+            "language": "rust",
+            "relative_path": "src/main.rs",
+            "occurrences": [
+                {
+                    "range": [
+                        0,
+                        0,
+                        24,
+                        0
+                    ],
+                    "symbol": "rust-analyzer cargo demo_app 0.1.0 crate/",
+                    "symbol_roles": 1
+                },
+                {
+                    "range": [
+                        0,
+                        4,
+                        10
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 crate/"
+                },
+                {
+                    "range": [
+                        0,
+                        13,
+                        23
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/"
+                },
+                {
+                    "range": [
+                        0,
+                        25,
+                        37
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/"
+                },
+                {
+                    "range": [
+                        0,
+                        39,
+                        44
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 greet()."
+                },
+                {
+                    "range": [
+                        2,
+                        3,
+                        7
+                    ],
+                    "symbol": "rust-analyzer cargo demo_app 0.1.0 main().",
+                    "symbol_roles": 1
+                },
+                {
+                    "range": [
+                        3,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        6,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        6,
+                        19,
+                        24
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 greet()."
+                },
+                {
+                    "range": [
+                        9,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        10,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        10,
+                        27,
+                        37
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/"
+                },
+                {
+                    "range": [
+                        10,
+                        39,
+                        42
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/add()."
+                },
+                {
+                    "range": [
+                        11,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        11,
+                        27,
+                        37
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/"
+                },
+                {
+                    "range": [
+                        11,
+                        39,
+                        47
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/multiply()."
+                },
+                {
+                    "range": [
+                        12,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        12,
+                        25,
+                        35
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/"
+                },
+                {
+                    "range": [
+                        12,
+                        37,
+                        42
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 calculator/power()."
+                },
+                {
+                    "range": [
+                        15,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        16,
+                        8,
+                        19
+                    ],
+                    "symbol": "local 0",
+                    "symbol_roles": 1
+                },
+                {
+                    "range": [
+                        17,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        17,
+                        31,
+                        42
+                    ],
+                    "symbol": "local 0"
+                },
+                {
+                    "range": [
+                        18,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        18,
+                        31,
+                        43
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/"
+                },
+                {
+                    "range": [
+                        18,
+                        45,
+                        59
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/reverse_string()."
+                },
+                {
+                    "range": [
+                        18,
+                        60,
+                        71
+                    ],
+                    "symbol": "local 0"
+                },
+                {
+                    "range": [
+                        19,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        19,
+                        31,
+                        43
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/"
+                },
+                {
+                    "range": [
+                        19,
+                        45,
+                        56
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/count_words()."
+                },
+                {
+                    "range": [
+                        19,
+                        57,
+                        68
+                    ],
+                    "symbol": "local 0"
+                },
+                {
+                    "range": [
+                        20,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                },
+                {
+                    "range": [
+                        20,
+                        33,
+                        45
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/"
+                },
+                {
+                    "range": [
+                        20,
+                        47,
+                        60
+                    ],
+                    "symbol": "rust-analyzer cargo my_lib 0.1.0 string_utils/to_title_case()."
+                },
+                {
+                    "range": [
+                        20,
+                        61,
+                        72
+                    ],
+                    "symbol": "local 0"
+                },
+                {
+                    "range": [
+                        22,
+                        4,
+                        11
+                    ],
+                    "symbol": "rust-analyzer cargo std https://github.com/rust-lang/rust/library/std macros/println!"
+                }
+            ],
+            "symbols": [
+                {
+                    "symbol": "rust-analyzer cargo demo_app 0.1.0 crate/",
+                    "kind": 29,
+                    "signature_documentation": {
+                        "language": "rust",
+                        "text": "extern crate demo_app",
+                        "position_encoding": 1
+                    }
+                },
+                {
+                    "symbol": "rust-analyzer cargo demo_app 0.1.0 main().",
+                    "kind": 17,
+                    "display_name": "main",
+                    "signature_documentation": {
+                        "language": "rust",
+                        "text": "fn main()",
+                        "position_encoding": 1
+                    }
+                },
+                {
+                    "symbol": "local 0",
+                    "kind": 61,
+                    "display_name": "sample_text",
+                    "signature_documentation": {
+                        "language": "rust",
+                        "text": "let sample_text: &str",
+                        "position_encoding": 1
+                    },
+                    "enclosing_symbol": "rust-analyzer cargo demo_app 0.1.0 main()."
+                }
+            ],
+            "position_encoding": 1
+        }
+    ]
+}

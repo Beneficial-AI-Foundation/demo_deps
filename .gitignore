@@ -1,0 +1,11 @@
+# Rust build artifacts
+demo_app/target/
+my_lib/target/
+
+# Rust-analyzer metadata
+demo_app/src/rust-analyzer/
+my_lib/src/rust-analyzer/
+
+# SCIP index files (code intelligence)
+*.scip
+*.scip.json
